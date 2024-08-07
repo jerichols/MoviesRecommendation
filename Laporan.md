@@ -81,12 +81,13 @@ The modeling steps are as follows:
 
 Here is a snapshot of the top 10 recommended movies based on user input and ratings from other users:
 
-![gambar](https://github.com/user-attachments/assets/cd2f39e3-cd14-4148-8cfd-34a7fda8b82f)
+![gambar](https://github.com/user-attachments/assets/ebff6d99-f849-44c3-a4bd-1db4ce1e0573)
+
 
 
 ## Evaluation
 
-![gambar](https://github.com/user-attachments/assets/26a38c78-eb9e-4251-9f52-1a61b51c9c25)
+![gambar](https://github.com/user-attachments/assets/972d4b2f-6778-4271-824c-02ea48e665bc)
 
 The linear link between user ratings is evaluated using the **Pearson Correlation** evaluation measure. A weighted average recommendation score can be computed by utilizing Pearson Correlation. With a maximum score of **5.0**, the recommendation score that is produced offers a high-quality suggestion.
 
